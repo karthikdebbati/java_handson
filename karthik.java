@@ -6,6 +6,7 @@ Class Mycode
                           int a=10; 
 String n="soumya";
 int b=20;
+    String name ="karthik";
   }
 }
 
